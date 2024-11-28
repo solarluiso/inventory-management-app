@@ -4,7 +4,7 @@ This repository contains the code for a Fullstack Inventory Management Dashboard
 
 ## How to Use It
 
-1.  Clone the repository: `git clone https://github.com/solarluiso/invetnory-management-app`
+1.  Clone the repository: `git clone https://github.com/solarluiso/inventory-management-app`
 2.  Navigate to the client or server directory to set up each environment individually.
 
 ## Requirements
