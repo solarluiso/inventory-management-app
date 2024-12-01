@@ -40,8 +40,8 @@ const SidebarLink = ({
         className={`cursor-pointer flex items-center ${
           isCollapsed ? "justify-center py-4" : "justify-start px-8 py-4"
         }
-        hover:text-blue-500 hover:bg-blue-100 gap-3 transition-colors ${
-          isActive ? "bg-blue-200 text-white" : ""
+        hover:text-purple-500 hover:bg-purple-100 gap-3 transition-colors ${
+          isActive ? "bg-purple-200 text-white" : ""
         }
       }`}
       >
@@ -97,7 +97,7 @@ const Sidebar = () => {
         </h1>
 
         <button
-          className="md:hidden px-3 py-3 bg-gray-100 rounded-full hover:bg-blue-100"
+          className="md:hidden px-3 py-3 bg-gray-100 rounded-full hover:bg-purple-100"
           onClick={toggleSidebar}
         >
           <Menu className="w-4 h-4" />
