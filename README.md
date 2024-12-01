@@ -57,7 +57,7 @@ This repository contains the code for a Fullstack Inventory Management Dashboard
 
 - **PostgreSQL**: Relational database for backend storage.
 
-### AWS Deployment:
+### Deployment:
 
 - **AWS EC2**: For hosting backend services.
 
